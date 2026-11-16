@@ -1,0 +1,6 @@
+numpy
+matplotlib
+# for tests and the tutorial
+qiskit>=1.0
+pytest
+jupyter
